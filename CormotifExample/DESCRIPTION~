@@ -1,0 +1,12 @@
+Package: CormotifExample
+Type: Package
+Title:Simulation result for the Correlation Motifs model
+Version: 1.0
+Depends: R (>= 2.11.1)
+Date: 2015-05-03
+Author: Ye Zheng
+Maintainer:  Ye Zheng <yezheng@stat.wisc.edu>
+Description: The CormotifExample package comtains the simulation raw data and the simulation result. The user can have a quick look at the Correlation Motifs result or run the simulation themselves using the raw simulation data.
+License: GPL (>= 2)
+
+
